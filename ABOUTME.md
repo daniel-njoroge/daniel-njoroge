@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-njoroge
-- 👀 I’m interested in web design and application development.
+- 👀 I’m interested in application development.
 - 🌱 I’m currently learning B.sc Information Technology at Jomo Kenyatta Universityy of Agriculture & Technology.
 - 📫 How to reach me ... WhatsApp 0729449148
 
